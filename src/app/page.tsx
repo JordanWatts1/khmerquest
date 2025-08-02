@@ -19,6 +19,7 @@ export default function Home() {
           <li>🎓 Expert Khmer Tutors</li>
           <li>🎮 Coming Soon: Interactive Language Game</li>
           <li>🌐 Convenient Online Scheduling & Payments</li>
+          <li>🌐 More Stuff</li>
         </ul>
       </section>
     </main>
